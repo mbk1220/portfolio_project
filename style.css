@@ -1,0 +1,18 @@
+.navbar_float {
+    float: right;
+    padding: 50px;
+}
+
+.aboutMe {
+    padding-top: 20px;
+    margin-right: 750px;
+}
+
+.imgS {
+    float: right;
+    width: 15%;
+    height: 15%;
+    padding: 10px;
+    margin-top: 20px;
+    border: 5px solid #555;
+}
