@@ -18,3 +18,11 @@
     height: 10%;
     padding-right: 250px;
 }
+
+.info {
+    display: none;
+}
+
+.contents {
+    display: block;
+}
